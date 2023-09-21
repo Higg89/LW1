@@ -1,2 +1,2 @@
 git checkout prd
-git merge prd
+git merge dev
